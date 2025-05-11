@@ -18,6 +18,7 @@ This script automates the installation of Grub Customizer on Ubuntu-based system
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/aroop007/grub-customizer-install.git
+    cd grub-customizer-install
     ```
 
 2.  **Make the script executable:**
