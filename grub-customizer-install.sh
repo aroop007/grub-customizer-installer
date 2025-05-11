@@ -2,6 +2,7 @@
 
 echo -e "\e[35m"
 figlet "Welcome to grub-customizer Install Script"
+echo
 echo "                                   2025"
 echo "                            Made by Aroop V"
 echo -e "\e[0m"
