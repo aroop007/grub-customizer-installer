@@ -31,3 +31,6 @@ This script automates the installation of Grub Customizer on Ubuntu-based system
     ```bash
     ./grub-customizer-install.sh
     ```
+
+##   Important Notes
+* Works only on Ubuntu or Debian based Distros
